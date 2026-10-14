@@ -1,0 +1,16 @@
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\bin\Debug\net10.0\Praaticas_De-Exercicio.exe
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\bin\Debug\net10.0\Praaticas_De-Exercicio.deps.json
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\bin\Debug\net10.0\Praaticas_De-Exercicio.runtimeconfig.json
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\bin\Debug\net10.0\Praaticas_De-Exercicio.dll
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\bin\Debug\net10.0\Praaticas_De-Exercicio.pdb
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.AssemblyInfoInputs.cache
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.AssemblyInfo.cs
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.sourcelink.json
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.dll
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\refint\Praaticas_De-Exercicio.dll
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.pdb
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praaticas_De-Exercicio.genruntimeconfig.cache
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\ref\Praaticas_De-Exercicio.dll
+C:\Users\46139855870\source\POOFundamentos\Praaticas_De-Exercicio\obj\Debug\net10.0\Praatica.405FC5D7.Up2Date
