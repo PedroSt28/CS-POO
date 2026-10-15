@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PilaresPOO
 {
-    internal class Carro
+    public class Carro
     {
         public string Marca;
         public string Modelo;
