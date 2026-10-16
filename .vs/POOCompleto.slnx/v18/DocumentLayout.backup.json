@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-3\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-2\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-2\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\exercicios-heranca\\ex-1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilar_heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilar_heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\pilarespoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilarespoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\exercicios_de_poo\\exerci-2\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\exercicios_de_poo\\exerci-2\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\46139855870\\desktop\\aulas de poo\\pilarespoo\\exercicios_de_poo\\exerci-1\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\exercicios_de_poo\\exerci-1\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Moto.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Moto.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Moto.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:33:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Carro.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Carro.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Carro.cs*",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Carro.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:28:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Veiculo.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Veiculo.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\Ex-3\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:23:00.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Gerente.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Gerente.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Gerente.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Gerente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:09:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Funcionario.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Funcionario.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-2\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:06:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PilaresPOO",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\PilaresPOO.csproj",
+              "RelativeDocumentMoniker": "PilaresPOO\\PilaresPOO.csproj",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\PilaresPOO.csproj",
+              "RelativeToolTip": "PilaresPOO\\PilaresPOO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T23:14:49.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Program.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Program.cs",
+              "RelativeToolTip": "PilaresPOO\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T23:13:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Aluno.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Aluno.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Aluno.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:15:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Professor.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Professor.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Professor.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:15:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boletim.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Exercicios_De_POO\\Exerci-2\\Boletim.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Exercicios_De_POO\\Exerci-2\\Boletim.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Exercicios_De_POO\\Exerci-2\\Boletim.cs",
+              "RelativeToolTip": "PilaresPOO\\Exercicios_De_POO\\Exerci-2\\Boletim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:47:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Animal.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Animal.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Animal.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:00:16.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Cachorro.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Cachorro.cs",
+              "RelativeToolTip": "PilaresPOO\\Pilar_Heranca\\Exercicios-Heranca\\ex-1\\Cachorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:01:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContadorDeVisitas.cs",
+              "DocumentMoniker": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Exercicios_De_POO\\Exerci-1\\ContadorDeVisitas.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Exercicios_De_POO\\Exerci-1\\ContadorDeVisitas.cs",
+              "ToolTip": "C:\\Users\\46139855870\\Desktop\\Aulas de POO\\PilaresPOO\\Exercicios_De_POO\\Exerci-1\\ContadorDeVisitas.cs",
+              "RelativeToolTip": "PilaresPOO\\Exercicios_De_POO\\Exerci-1\\ContadorDeVisitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:27:54.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
